@@ -1,0 +1,1 @@
+web gunicorn chrisdashboard:app
