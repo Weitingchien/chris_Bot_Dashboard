@@ -1,6 +1,5 @@
 
 from flask import Flask
-print(Flask)
 app = Flask(__name__)  # 用來定位目前載入資料夾的位置，判別template_folder或static_folder資料夾位置
 
 
